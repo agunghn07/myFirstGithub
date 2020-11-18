@@ -1,8 +1,8 @@
 Ini hanyalah teks biasa untuk latihan menambah branch
 - Mobil
-  1. Avanza
-  2. Xenia
+  1. Xenia
 - Motor : 
   1. Yamaha
   2. Honda
+  3. Kawasaki
 - Pesawat
